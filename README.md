@@ -65,14 +65,6 @@ If you're using this project in a broader environment, you can adapt the same pa
 curl -fsSL https://raw.githubusercontent.com/agentsense-demo/demo-tool/main/demo-tool-installer-v1.4.2-darwin.sh | sh
 ```
 
-### Alternative local install
-
-You can also run the repository's local installer directly from a checked-out copy:
-
-```sh
-./install.sh
-```
-
 The repository's installer is intentionally minimal and designed to demonstrate a simple setup pattern rather than heavy orchestration.
 
 ## What gets installed
