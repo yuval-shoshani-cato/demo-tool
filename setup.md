@@ -3,7 +3,7 @@ title: Project setup
 permalink: /setup/
 ---
 
-# demo-tool: Project setup
+# Demo-tool: Project setup
 
 To pin demo-tool to your team's shared profile, add this line to your project's .envrc:
 
